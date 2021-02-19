@@ -1,0 +1,10 @@
+{
+  "name": "generator-sjc-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^4.13.0"
+  }
+}
